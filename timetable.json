@@ -1,0 +1,74 @@
+[
+    {
+        "COURSE NO.": "BIO F110",
+        "COURSE TITLE": "BIOLOGY LABORATORY",
+        "SEC": [
+            "P1"
+        ],
+        "INSTRUCTOR-IN-CHARGE / Instructor": [
+            "Sayantani Chatterjee(RS)"
+        ],
+        "ROOM": "3219",
+        "DAYS & HOURS": "F  6 7"
+    },
+    {
+        "COURSE NO.": "BIO F111",
+        "COURSE TITLE": "GENERAL BIOLOGY",
+        "SEC": [
+            "L1"
+        ],
+        "INSTRUCTOR-IN-CHARGE / Instructor": [
+            "SHIBASISH CHOWDHURY"
+        ],
+        "ROOM": "5102",
+        "DAYS & HOURS": "T Th F  2"
+    },
+    {
+        "COURSE NO.": "BITS F111",
+        "COURSE TITLE": "THERMODYNAMICS",
+        "SEC": [
+            "L1"
+        ],
+        "INSTRUCTOR-IN-CHARGE / Instructor": [
+            "Manoj Kumar Soni"
+        ],
+        "ROOM": "5102",
+        "DAYS & HOURS": "M W  3  Th  9"
+    },
+    {
+        "COURSE NO.": "BITS F112",
+        "COURSE TITLE": "TECHNICAL REPORT WRITING",
+        "SEC": [
+            "L1"
+        ],
+        "INSTRUCTOR-IN-CHARGE / Instructor": [
+            "Sanjiv Kumar Choudhary"
+        ],
+        "ROOM": "5102",
+        "DAYS & HOURS": "M W  9"
+    },
+    {
+        "COURSE NO.": "CHEM F110",
+        "COURSE TITLE": "CHEMISTRY LABORATORY",
+        "SEC": [
+            "P1"
+        ],
+        "INSTRUCTOR-IN-CHARGE / Instructor": [
+            "Paritosh Shukla"
+        ],
+        "ROOM": "3115",
+        "DAYS & HOURS": "F  1 2"
+    },
+    {
+        "COURSE NO.": "CHEM F111",
+        "COURSE TITLE": "GENERAL CHEMISTRY",
+        "SEC": [
+            "L1"
+        ],
+        "INSTRUCTOR-IN-CHARGE / Instructor": [
+            "PARTHA SARATHI ADDY"
+        ],
+        "ROOM": "5105",
+        "DAYS & HOURS": "T Th F  2"
+    }
+]
